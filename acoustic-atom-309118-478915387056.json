@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "acoustic-atom-309118",
+  "private_key_id": "4789153870569ed4a40b4cc4ec3b6484e6eb240e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDASvZA8yIjSJG5\nmoIMAeGgCMHteoHRJbZ4ebSR3VGwlDWLzsc52l+7irVO8qgJI4GkhOAnzVSJTESv\n/lf7ovL7OCNyngvNemj0Kye5gse2GIwep2Unu2dOwE8hdF26gUqaD08TJQyB1myk\nYf3p7cnI1PZ6ALFdPxp0oLoITWX5RYMpUGZfdYWc4dELP6VvAr4E7rC007kvqDc3\nEaJpXkggzuLDV+nE90dJVupDhw1y7WXj1sp1s3hgZvJQLLKbUiAIgIhlwCQC4LPX\n/tmAa50v8ySoxsB6fraUhV2MQ+m2RAxsSdWLl/d6YSmOZ2FyAh1ZxQfuoIhaiKY2\n/oTHao0tAgMBAAECggEACHJSglRbu8aIhilcDIh5n3S7BgIzWRtJul2IOb8Jw1Kj\nTn6ZADjQKzYC1FKy4GHjpDUk/oKVs8k6nCt1NGu6NiBHaFW6aX52xUDvCAZPXPeT\nkhYiyp3AAjTO1QaeRl6/BujkvY/LTpm7YHYgd+nWywBVylKk99ZZhGV5/nrd35bj\nVvtv0O5boXplnQRA2I1BqV4n3YhArTikelnfO6weILkFz8UVULBHu/+eUSso0IVc\nMCov3quTYc0A9R2WJTiMFswRhRulRqa90C939ofMsjaSZ1zQ74Qvq6Nvkd0v47gN\nV1MTTthjT5aHi20UsUwyt4BVaV4m8PITZ3sPoNmUwQKBgQDiCUXSgpz0+Uzo5VLx\nlcjpN3H+5QPTM4Hbt9+/cTNu9/czNNhlRlZcMgnF0BbC6MHNfOShhEOnYPbBaWKi\n9AHMQAnp+BKUR4l+wYQiNRLnzqKAVV/jfCGt4gTgCgiUQjXnEFIotzBI0kt/WB7J\nsStAVoXNWHGhS7JYcYrAyCt6wQKBgQDZyJQqlZPL22dHZazdZR85FGDn/xEKmmmR\noc0OvXGssBDL4FIczaHWMMUZiCN7Rzbv7UKAuixWiI1nKK4/g4Dap8ptUyQAPj2I\nX/mf4l3S7Nczdd0nnmCp08YJCBEo3VQPUPKpQebbXfSd1TVDQr/2lXYmOgET0wJ4\nOqlmw7aJbQKBgDPpI0LsQjW0h2g5OmpHFwQQerqqR82aV6lpOhaSXdiPVBNLgKMJ\nm03DJCFs371VjSSvGSbK5GqtRx42ILQBy+PnlR9JnKK3JymYMctVWwknmIRWlxX8\nbROtA6ecRkoeRpjRU70MDSe8PCB70V5KtP8qn8IAHOCJLOVI9i++CNZBAoGAGP/Y\nWkcPTzBhW6XFQSjRe7jmItt5tlDhW3FKW63NdbhERVL7ugi00iSJC5RAFm+nU8VV\ng/dbDZfhO31E+096JB9ssj3//PMoFxaFTiArCwJa9bJK77hTekswCWtepOU7OALf\nyCQjfvz7Dn8h/RWVeZXQmTTBWOg4+VoqhfxjYMUCgYEAm4ycRcIocE27ATIdUTyV\nWMV7Czd9cE6n7qr14O/NvWLGL3Xg8X0c6gl1ysJwGR92O0kwUGYOknfPibAWhSfZ\nmyg/EBGBU+JBgHGKFkS6zcObuV5jU2w5GKRsmzNDiMcN0WLKrsi1bOYdh0tx3IsZ\nktvrVw7dc7bGhuFq+3Qw8Xg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-storage-577@acoustic-atom-309118.iam.gserviceaccount.com",
+  "client_id": "102183766947711657756",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-storage-577%40acoustic-atom-309118.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
